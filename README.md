@@ -17,7 +17,7 @@ WP Fine-tuning est un plugin WordPress qui exporte vos publications à partir de
 
 WP Fine-tuning est idéal pour utiliser le mode "fine-tuning" sur OpenAI. Grâce à cette fonctionnalité, vous pourrez entraîner le modèle de langage avec les contenus de votre site WordPress. Personnalisez votre IA pour une meilleure cohérence et pertinence de votre contenu !
 
-[![Voir le tutoriel](https://img.youtube.com/vi/b3YnPGJGssw/maxresdefault.jpg)](https://www.youtube.com/watch?v=b3YnPGJGssw&ab_channel=KevinBenabdelhak)
+[![Voir le tutoriel](https://img.youtube.com/vi/aKWvAhhPCjk/maxresdefault.jpg)](https://www.youtube.com/watch?v=aKWvAhhPCjk&ab_channel=KevinBenabdelhak)
 
 
 #### Fonctionnalités principales
