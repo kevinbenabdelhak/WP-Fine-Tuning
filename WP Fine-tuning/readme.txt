@@ -24,7 +24,7 @@ WP Fine-tuning est idéal pour utiliser le mode "fine-tuning" sur OpenAI. Grâce
 == Installation ==
 
 1. **Téléchargez le fichier ZIP du plugin :**
-   Rendez-vous sur la page de WP Fine-tuning sur WordPress.org et téléchargez le fichier ZIP du plugin.
+   Rendez-vous sur la page de WP Fine-tuning sur https://kevin-benabdelhak.fr/plugins/wp-fine-tuning/ et téléchargez le fichier ZIP du plugin.
 
 2. **Uploader le fichier ZIP du plugin :**
    - Allez dans le panneau d'administration de WordPress et cliquez sur "Extensions" > "Ajouter".
